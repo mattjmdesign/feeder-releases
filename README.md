@@ -1,7 +1,7 @@
-# Feeder releases
+# Feeder has moved
 
-Signed, notarized builds of Feeder for Apple Silicon Macs.
+Feeder is now open source. Its code, releases and downloads live at **[github.com/mattjmdesign/feeder](https://github.com/mattjmdesign/feeder)**.
 
-Download the DMG from the [latest release](https://github.com/mattjmdesign/feeder-releases/releases/latest), open it, and drag Feeder into Applications. After that, Feeder updates itself from this page.
+[Download Feeder](https://mattjmdesign.github.io/feeder/)
 
-The source code is private.
+Copies of Feeder installed from here update to the new home on their own.
